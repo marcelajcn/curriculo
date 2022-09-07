@@ -1,0 +1,89 @@
+body{ background-color: black;}
+h1{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+                   font-size: 72px;
+                   font-style: unset;
+                   font-variant: small-caps;
+                   text-align: center;
+                   background-color: rgb(255, 0, 0);
+                   margin-left: 43px;
+                   margin-top: 0;
+                   border-bottom-color: brown;
+                   border-bottom-style: double;
+                   border-bottom-width: 45px;
+
+     
+}
+  
+h2 {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+                   font-size: 35px;
+                   font-style: unset;
+                   font-variant: small-caps;
+                   text-align: left;
+                   background-color: rgb(255, 0, 13);
+                   margin-left: 43px;
+                   margin-top: 0;
+                   border-bottom-color: brown;
+                   border-bottom-style: solid;
+                   border-bottom-width: 45px;
+}
+
+h3 {font-family: Verdana, Geneva, Tahoma, sans-serif;
+                   font-size: 35px;
+                   font-style: unset;
+                   font-variant: small-caps;
+                   text-align: left;
+                   background-color: rgb(255, 0, 0);
+                   margin-left: 43px;
+                   margin-top: 0;
+                   border-bottom-color: brown;
+                   border-bottom-style: double;
+                   border-bottom-width: 45px;}
+
+                   h4 {font-family: 'Courier New', Courier, monospace;
+                   font-size: 40px;
+                    font-style: italic;
+                   font-variant: small-caps;
+                   text-align: left;
+                   background-color: rgb(255, 0, 0);
+                   margin-left: 43px;
+                   margin-top: 0;
+                   border-bottom-color: brown;
+                   border-bottom-style: double;
+                   border-bottom-width: 45px;}
+
+                   h5{font-family: 'Courier New', Courier, monospace;
+                   font-size: 40px;
+                   font-style: unset;
+                   font-variant: small-caps;
+                   text-align: left;
+                   background-color: rgb(255, 0, 0);
+                   margin-left: 43px;
+                   margin-top: 0;
+                   border-bottom-color: brown;
+                   border-bottom-style: solid;
+                   border-bottom-width: 45px;}
+
+                   p{font-family: Verdana, Geneva, Tahoma, sans-serif;
+                      font-size: 21px;
+                      font-style: normal;
+                      font-variant: unset;
+                      text-align: left;
+                      color: white;}
+
+                      ul
+                      { padding-left: 0;
+           }
+           
+           li{
+               padding-left: 0;
+               list-style-position: inside;
+           }
+           a{
+               text-decoration: none;
+           }
+           a:hover{
+               text-decoration: underline;
+               color: blueviolet;
+           }
